@@ -1,4 +1,4 @@
-# Я таалайбеков бексултан
+# таалайбеков бексултан
 
 **Junior Backend Developer (Python / Django)**
 
