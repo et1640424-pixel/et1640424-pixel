@@ -1,4 +1,4 @@
-# 👋 Привет! Я таалайбеков бексултан
+# Я таалайбеков бексултан
 
 **Junior Backend Developer (Python / Django)**
 
